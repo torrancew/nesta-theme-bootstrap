@@ -1,9 +1,4 @@
-begin
-  require 'less'
-rescue e
-  puts "Please install the 'less' gem to use this theme"
-end
-
+require 'less'
 require 'nesta/app'
 
 module Nesta
