@@ -1,5 +1,4 @@
 require 'less'
-require 'nesta/app'
 
 module Nesta
   class App
